@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chat bot app using Gemini API<br>👯 I’m looking to collaborate on flutter projects.<br>🤝 I’m looking for help with getting new projects ideas.<br>🌱 I’m currently learning kotlin for android development.<br>💬 Ask me about flutter development.<br>⚡ Fun fact, its my final year at high school.
+🔭 I’m currently working on a Grocery Shopping App called AWIID.<br>👯 I’m looking to collaborate on flutter projects.<br>🤝 I’m looking for help with getting new projects ideas.<br>🌱 I’m currently learning kotlin for android development.<br>💬 Ask me about flutter development.<br>⚡ Fun fact, its my final year at high school.
 
 
 ## 🌐 Socials:
